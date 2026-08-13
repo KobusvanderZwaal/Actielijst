@@ -1,0 +1,4 @@
+python-telegram-bot==21.6
+anthropic>=0.40.0
+requests>=2.32.0
+pytz>=2024.1
